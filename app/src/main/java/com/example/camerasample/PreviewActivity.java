@@ -11,7 +11,7 @@ import android.util.Log;
 import android.view.TextureView;
 import android.widget.Toast;
 
-public class MainActivity extends AppCompatActivity {
+public class PreviewActivity extends AppCompatActivity {
 
     private AutoFitTextureView mTextureView;
     private Camera2Helper helper;
